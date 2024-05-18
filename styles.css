@@ -1,4 +1,7 @@
 /* CSS styles */
-body{font-family: Impact, sans-serif;
-background-image: url("phone.jpg")
+body
+{
+font-family: Impact, sans-serif;
+background-image: url("phone.jpg");
+background-repeat: no-repeat;
 }
