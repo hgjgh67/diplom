@@ -7,11 +7,17 @@ background-size:120%;
 background-repeat:no-repeat;
 }
 
-.img-example1  
-{width:1400;
- height:300;}
-.img-example2  
-{width:400;
- height:300;}
-.img-example3  
-{width:890; height:300;}
+.img-example1 {
+    width: 1400px;
+    height: 300px;
+}
+
+.img-example2 {
+    width: 400px;
+    height: 300px;
+}
+
+.img-example3 {
+    width: 890px;
+    height: 300px;
+}
