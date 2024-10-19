@@ -6,11 +6,6 @@ background-image:url('phone.jpg');
 background-size:120%; 
 background-repeat:no-repeat;
 }
-{
-    font-family: F16;
-    src: url("../../SubSkipper/F16_Panel Font.ttf") format('truetype');
-    font-weight: bold;
-    font-style: normal;
-}
+
 .  
 {width:1890 height:300}
