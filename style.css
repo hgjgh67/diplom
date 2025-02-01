@@ -5,10 +5,6 @@ font-family: Impact, sans-serif;
 background-image:url('phone.jpg');
 background-size:120%; 
 background-repeat:no-repeat;
-list-style-type: none; padding: 0;
-largin: 0;
-
-	
 }
 
 .img-example1 {
@@ -29,7 +25,11 @@ largin: 0;
     height: 100px;
 }
 
+list-style-type: none; padding: 0;
+largin: 0;
 
+	
+}
 
 
 li { float: left; margin-right: 10px;
