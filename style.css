@@ -5,6 +5,10 @@ font-family: Impact, sans-serif;
 background-image:url('phone.jpg');
 background-size:120%; 
 background-repeat:no-repeat;
+list-style-type: none; padding: 0;
+largin: 0;
+
+	
 }
 
 .img-example1 {
@@ -26,9 +30,7 @@ background-repeat:no-repeat;
 }
 
 
-     list-style-type: none; padding: 0;
-	margin: 0;
-}
+
 
 li { float: left; margin-right: 10px;
 }
@@ -64,5 +66,5 @@ a:hover #img2, a:focus #img2  {
 .audio-container {
     width: 100%;
     display: flex;
-    justify-content: center; /* Центрирование по горизонтали */
+    justify-content: right; /* Центрирование по горизонтали */
 }
