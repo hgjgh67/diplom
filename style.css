@@ -67,5 +67,5 @@ a:hover #img2, a:focus #img2  {
     width: 100%;
     display: flex;
     justify-content: right; /* Центрирование по горизонтали */
-    background-color: #f9f9f9; /* Фоновый цвет плеера */	
+    background-color: #00ff00; /* Фоновый цвет плеера */	
 }
