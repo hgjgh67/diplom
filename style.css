@@ -10,6 +10,9 @@ background-repeat:no-repeat;
 .img-example1 {
     width: 1500px;
     height: 400px;
+list-style-type: none; padding: 0;
+largin: 0;
+	
 }
 
 .img-example2 {
