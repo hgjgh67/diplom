@@ -29,7 +29,10 @@ largin: 0;
 }
 
 
-
+.blockad
+{
+  display:block;
+}
 
 li { float: left; margin-right: 10px;
 }
