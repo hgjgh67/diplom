@@ -62,7 +62,7 @@ a:hover #img2, a:focus #img2  {
 }
 
 #img1,#img2  { width: 100px; height: 150px; 
-  display: flex;
+  display: block;
   	box-shadow: 6px 6px 6px rgb(139, 128, 128);
 transition: transform .3s ease-in-out; 
 }
