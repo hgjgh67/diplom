@@ -35,14 +35,10 @@ a { display: block;
 }
 
 
-#img1,#img2  { width: 200px; height: 150px; box-shadow: 2px 2px 2px rgba(0,0,0,.4);
-  display: block;
-transition: transform .3s ease-in-out; 
-}
 
 
 a:hover img {
-	box-shadow: 6px 6px 6px rgba(0,0,0,.3);
+	box-shadow: 6px 6px 6px rgba(139, 128, 128, 0.3);
 }
 
 
@@ -63,4 +59,10 @@ a:hover #img2, a:focus #img2  {
 .blockad
 {
   display:block;
+}
+
+#img1,#img2  { width: 100px; height: 150px; 
+  display: flex;
+  	box-shadow: 6px 6px 6px rgb(139, 128, 128);
+transition: transform .3s ease-in-out; 
 }
