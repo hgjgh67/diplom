@@ -2,7 +2,7 @@
 body
 {
 font-family: Impact, sans-serif;
-background-image:url('phone.jpg');
+background-image:url('https://github.com/hgjgh67/diplom/blob/main/phone.jpg');
 background-size:120%; 
 background-repeat:no-repeat;
 }
@@ -19,20 +19,9 @@ largin: 0;
     width: 400px;
     height: 300px;
 }
-.img1 {
-    width: 200px;
-    height: 100px;
-}
-.img2 {
-    width: 200px;
-    height: 100px;
-}
 
 
-.blockad
-{
-  display:block;
-}
+
 
 li { float: left; margin-right: 10px;
 }
@@ -47,7 +36,7 @@ a { display: block;
 
 
 #img1,#img2  { width: 200px; height: 150px; box-shadow: 2px 2px 2px rgba(0,0,0,.4);
-
+  display: block;
 transition: transform .3s ease-in-out; 
 }
 
@@ -70,4 +59,8 @@ a:hover #img2, a:focus #img2  {
     display: flex;
     justify-content: right; /* Центрирование по горизонтали */
     background-color: #666666; /* Фоновый цвет плеера */	
+}
+.blockad
+{
+  display:block;
 }
