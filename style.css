@@ -53,12 +53,7 @@ a:hover #img2, a:focus #img2  {
 	transform: scale(1.5) rotate(5deg);
 }
 
-.audio-container {
-    width: 100%;
-    display: flex;
-    justify-content: right; /* Центрирование по горизонтали */
-    background-color: #666666; /* Фоновый цвет плеера */	
-}
+
 .blockad
 {
   display:block;
