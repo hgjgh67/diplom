@@ -29,6 +29,11 @@ largin: 0;
     width: 800px;
     height: 600px;
 }
+#img-example3 { width: 800px; height: 600px; 
+  display: block;
+  	box-shadow: 0px 0px 0px black(139, 128, 128);
+transition: transform .3s ease-in-out; 
+}
 
 
 
